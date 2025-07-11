@@ -1,0 +1,1 @@
+../../drafter-skulpt/cdn/skulpt/drafter-setup.js

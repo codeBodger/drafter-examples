@@ -1,0 +1,1 @@
+../../drafter-skulpt/cdn/skulpt/skulpt-stdlib.js
